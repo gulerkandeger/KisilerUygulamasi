@@ -1,0 +1,9 @@
+*.csharp linguist-detectable =true
+
+*.java linguist-detectable =yanlış
+
+*.js linguist-detectable=yanlış
+
+*.html linguist-detectable=yanlış
+
+*.xml linguist-detectable=yanlış
