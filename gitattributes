@@ -1,9 +1,5 @@
-*.c++ linguist-detectable = false
+*.cpp linguist-detectable = false
 
 *.dart linguist-detectable = true
 
-*.js linguist-detectable=yanlış
 
-*.html linguist-detectable=yanlış
-
-*.xml linguist-detectable=yanlış
