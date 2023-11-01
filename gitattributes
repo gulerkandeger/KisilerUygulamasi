@@ -1,6 +1,6 @@
-*.csharp linguist-detectable =true
+*.c++ linguist-detectable = false
 
-*.java linguist-detectable =yanlış
+*.dart linguist-detectable = true
 
 *.js linguist-detectable=yanlış
 
